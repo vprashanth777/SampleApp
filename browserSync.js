@@ -19,6 +19,7 @@ serve({
     target: 'dev.site',
     middleware: bundler.middleware()
   }
+  ui: false
 })
 
-ui: false
+
