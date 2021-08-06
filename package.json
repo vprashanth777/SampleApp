@@ -4,7 +4,7 @@
   "description": "JS Starter Code",
   "main": "script.js",
   "scripts": {
-    "start": "lite-server"
+    "build": "lite-server"
   },
   "author": "Pluralsight",
   "license": "ISC",
