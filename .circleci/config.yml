@@ -18,4 +18,4 @@ jobs:
 workflows:
   app-tests:
     jobs:
-      - build
+      - start
